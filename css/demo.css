@@ -90,7 +90,7 @@ body {
 }
 image css3 animation rotation
 a {
-	color: #c2575b;
+	color: #ffffff;
 	text-decoration: none;
 
 	-webkit-transition: 0.15s color ease;
@@ -100,7 +100,7 @@ a {
 	        transition: 0.15s color ease;
 }
 	a:hover {
-		color: #f76f76;
+		color: #000000;
 	}
 
 h1,
@@ -112,7 +112,7 @@ h2 {
 	display: none;
 	padding: 20px;
 	overflow: auto;
-	background: #333;
+	background: green;
 	color: #eee;
 
 	-webkit-box-sizing: border-box;
