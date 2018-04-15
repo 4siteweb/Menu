@@ -2,7 +2,7 @@
 
 A three dimensional and space effecient menu. Meny works best in browsers with support for CSS 3D transforms, although it falls back on 2D animation for older browsers. Supports touch events for mobile devices.
 
-[Check out the demo page](http://lab.hakim.se/meny/).
+[Check out the demo page](https://4siteweb.github.io/Menu/).
 
 
 ## Instructions
