@@ -157,8 +157,17 @@ h2 {
 				margin-right: 5px;
 				color: rgba( 255, 255, 255, 0.2 );
 			}
+}
+		.meny ul li a{
+			color:orange;
+			text-decoration:none;
+		}
 
-/**
+		.meny ul li a :hover{
+			color:green;
+			text-decoration:none;
+		}
+/**}
  * Hint graphic that appears while menu is inactive
  */
 .meny-arrow {
