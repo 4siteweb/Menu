@@ -126,6 +126,9 @@ a {
 		color: #000000;
 	}
 
+
+
+h1 {float:left;}
 h1,
 h2 {
 	font-size: 24px;
