@@ -12,6 +12,17 @@
 	margin: 0;
 	padding: 0;
 }
+
+.component-SecondaryCta {
+    background-image: -webkit-gradient(linear,left top,right top,from(#b391ff),to(#8ac3ff));
+    background-image: linear-gradient(90deg,#b391ff 0,#8ac3ff);
+    color: #fff;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
 .li .a {color:white;hover-color:orange;}
 html,
 body {
