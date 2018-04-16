@@ -158,12 +158,12 @@ h2 {
 				color: rgba( 255, 255, 255, 0.2 );
 			}
 }
-		.meny ul li a{
+		.meny ul li a: {
 			color:orange;
 			text-decoration:none;
 		}
 
-		.meny ul li a :hover{
+		.meny ul li a: :hover{
 			color:green;
 			text-decoration:none;
 		}
