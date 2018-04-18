@@ -17,15 +17,16 @@
   margin: 0 auto;
 }
 .block {
-  width: 200px;
-  display: inline-block;
-  background: #333;
-  margin: 5px;
-  text-align: center;
-  float: right;
+    width: 10%;
+    display: inline-block;
+    background: #c2dad8;
+    margin: 5px;
+    text-align: center;
+    float: right;
+    border-radius: 0.5em;
 }
 .one, .two, .three, .five {
-  height: 30px;
+  height: 160px;
 }
 .four {
   height: 160px;
