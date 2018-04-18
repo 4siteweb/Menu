@@ -12,7 +12,24 @@
 	margin: 0;
 	padding: 0;
 }
-
+.group {
+  width: 100%;
+  margin: 0 auto;
+}
+.block {
+  width: 200px;
+  display: inline-block;
+  background: #333;
+  margin: 5px;
+  text-align: center;
+  float: right;
+}
+.one, .two, .three, .five {
+  height: 30px;
+}
+.four {
+  height: 160px;
+}
 .component-SecondaryCta {
     background-image: -webkit-gradient(linear,left top,right top,from(#b391ff),to(#8ac3ff));
     background-image: linear-gradient(90deg,#b391ff 0,#8ac3ff);
